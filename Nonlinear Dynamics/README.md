@@ -24,7 +24,7 @@ Phase difference and frequency mismatch can be defined as:
   \phi'=\Delta\omega-k \ sin(\phi)    
 \end{equation}
 ```
-When $\Delta\omega > k$, there are no fixed points and the phase difference keeps increasing. The slowest rate of phase difference occurs at $\phi = \frac{\pi}{2}$. As increasing $k$ till it is equal to $\Delta \omega$,  $\phi = \frac{\pi}{2}$ becomes the semi-stable fixed point. If $\Delta\omega < k$, the two fixed points appear and $\phi = arcsin(\frac{\Delta\omega}{k})$ is the stable one and $\phi = \pi - arcsin(\frac{\Delta\omega}{k})$ is the unstable one. Results for negative $\Delta\omega$ are similar.
+When $\Delta\omega > k$, there are no fixed points and the phase difference keeps increasing. The slowest rate of phase difference occurs at $\phi = \frac{\pi}{2}$. As increasing $k$ till it is equal to $\Delta \omega$,  $\phi = \frac{\pi}{2}$ becomes the semi-stable fixed point. If $\Delta\omega < k$, the two fixed points appear and $\phi = arcsin(\frac{\Delta\omega}{k})$ is the stable one and $\phi = \pi - arcsin(\frac{\Delta\omega}{k})$ is the unstable one. Results for negative $\Delta\omega$ are similar.<br>
 <img width="250" height="200" alt="omegasmallerk" src="https://github.com/user-attachments/assets/fc3a42e0-dbdf-4324-8c41-87dab9bf57f1" />
 <img width="250" height="200"  alt="omegaequalk" src="https://github.com/user-attachments/assets/f2b7ceea-2855-4fe0-b894-84f88db87f55" />
 <img width="250" height="200"  alt="omegalargerk" src="https://github.com/user-attachments/assets/c721ce76-574c-4b74-95ed-81ba4ecacce0" /><br>
